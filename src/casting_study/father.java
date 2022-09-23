@@ -9,7 +9,7 @@ public class father {
 	
 	public void bike()
 	{
-		System.out.println("bullet");
+		System.out.println("bullet");//this is bullet car
 	}
 
 }
